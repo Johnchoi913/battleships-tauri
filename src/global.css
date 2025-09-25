@@ -1,0 +1,10 @@
+body {
+    background-color: black;
+    align-items: center;
+    justify-items: center;
+    display: grid;
+}
+button {
+    border-color: lightslategray;
+    background-color: lightsteelblue;
+}
